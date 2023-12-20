@@ -1,5 +1,3 @@
-# embeddings-for-aja-language
-
 # FastText Word Embeddings in Aja Language: Semantic Analysis and Insights
 
 ## Abstract
@@ -13,5 +11,6 @@ Our sincere appreciation also goes to Professor Rolando Coto-Solano, a computati
 ## Additionnal Information
 The notebook contains code, analyses, and visualizations pertaining to the application of FastText word embeddings to the Aja language. The aim is to explore semantic relationships in this underrepresented linguistic area and contribute to the field of natural language processing.
 
+# Read about the process in the pdf file available in this repo
 
 
