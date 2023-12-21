@@ -11,6 +11,10 @@ Our sincere appreciation also goes to Professor Rolando Coto-Solano, a computati
 ## Additionnal Information
 The notebook contains code, analyses, and visualizations pertaining to the application of FastText word embeddings to the Aja language. The aim is to explore semantic relationships in this underrepresented linguistic area and contribute to the field of natural language processing.
 
-# Read about the process in the pdf file available in this repo
+## Read about the process in the pdf file available in this repo
+
+If you're not able to run the notebook, please open an issue and let me know what's happening so I can adapt it accordingly
+
+Josué
 
 
